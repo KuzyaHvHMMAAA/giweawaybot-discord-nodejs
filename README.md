@@ -8,3 +8,4 @@
 И потом пишем как установили модуль пишем node main.js
 В config.json
 Измените токен и префикс там всё кратко.
+Команда: вашпрефиксgiveaway (Time[m for Minutes or h for Hours]) (Channel Id) (Prize)
